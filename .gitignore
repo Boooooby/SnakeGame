@@ -1,5 +1,2 @@
-/SnakeGame/.vs/
-*.sln
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
+/SnakeGame/Snake/.vs/
+/SnakeGame/Snake/Debug/
